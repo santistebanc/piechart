@@ -1,0 +1,13 @@
+.chartbar{
+  stroke: #555;
+  stroke-width: 1;
+}
+
+.axisline{
+  fill: none;
+  stroke: #555;
+}
+
+.axislinetick{
+  stroke: #555;
+}

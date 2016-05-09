@@ -1,0 +1,17 @@
+.pieslice{
+  stroke: #555;
+}
+
+.donut{
+  fill: #eee;
+  stroke: #555;
+}
+
+.legendbox{
+  fill: #fff;
+  stroke: #555;
+}
+
+.legendsquare{
+  stroke: #555;
+}

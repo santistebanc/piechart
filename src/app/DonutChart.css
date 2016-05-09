@@ -1,0 +1,9 @@
+div{
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+}
+
+.pieslice{
+  stroke-width:0;
+}
